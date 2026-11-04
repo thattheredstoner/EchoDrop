@@ -1,0 +1,8 @@
+cookies_file=""
+browser="chrome"
+download_dir="output"
+server_version="1.0.0"
+max_request_size=10485760
+request_timeout=30
+ip="127.0.0.1"
+port=8787
